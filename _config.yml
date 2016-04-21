@@ -1,0 +1,28 @@
+name: Xprex
+favicon: null
+layout_spectrum: 0.91603
+typography_spectrum: 0.013048665365204215
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ffffff'
+    - '#4d3279'
+    - '#4fb4d2'
+    - '#725c93'
+    - '#c0b9cd'
+  brandStrength: 0.45710553927347064
+  lightness: 0.3774897619150579
+  saturation: 0.2196596353314817
+  rhythmicContrast: 0.3982074854429811
+purpose: []
