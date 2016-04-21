@@ -1,7 +1,7 @@
 name: Xprex
 favicon: null
 layout_spectrum: 0.91603
-typography_spectrum: 0.013048665365204215
+typography_spectrum: 0.33258
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#725c93'
     - '#c0b9cd'
   brandStrength: 0.45710553927347064
-  lightness: 0.3774897619150579
+  lightness: 0.375
   saturation: 0.2196596353314817
   rhythmicContrast: 0.3982074854429811
 purpose: []
