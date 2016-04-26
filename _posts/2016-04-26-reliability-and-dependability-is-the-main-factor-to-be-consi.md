@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Reliability and Dependability is the main factor to be considered when choosing your fufillment
-datePublished: '2016-04-26T04:51:52.881Z'
-dateModified: '2016-04-26T04:51:12.609Z'
+datePublished: '2016-04-26T04:55:12.340Z'
+dateModified: '2016-04-26T04:52:39.147Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-26-reliability-and-dependability-is-the-main-factor-to-be-consi.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,8 +18,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-26-reliability-and-dependability-is-the-main-factor-to-be-consi.md
-published: true
 url: reliability-and-dependability-is-the-main-factor-to-be-consi/index.html
 _type: Article
 
