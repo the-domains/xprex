@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Xprex]]></title>
-        <description><![CDATA[Xprex]]></description>
+        <title><![CDATA[Xprex Intelligent Longistics ]]></title>
+        <description><![CDATA[Xprex Intelligent Longistics ]]></description>
         <link>https://thegrid.ai/xprex/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 05 May 2016 16:13:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 May 2016 21:12:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/xprex/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Reliability and Dependability is the main factor to be considered when choosing your fufillmentsf</p>]]></description>
+            <link>https://thegrid.ai/xprex/reliability-and-dependability-is-the-main-factor-to-be-consi/index.html</link>
+            <guid isPermaLink="false">6b65fa98-6376-4588-8d2c-38c48cac0257</guid>
+            <pubDate>Sun, 15 May 2016 21:11:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Xprex]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b34698e4-be95-40ad-b851-d4d5a2624ed4.jpg">]]></description>
             <link>https://thegrid.ai/xprex/solucao-logistica-para-pequenas-e-medias-empresas/index.html</link>
             <guid isPermaLink="false">19fdafdf-8d2b-4931-905c-c9d54327cabd</guid>
             <pubDate>Thu, 05 May 2016 16:13:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Reliability and Dependability is the main factor to be considered when choosing your fufillment</p>]]></description>
-            <link>https://thegrid.ai/xprex/reliability-and-dependability-is-the-main-factor-to-be-consi/index.html</link>
-            <guid isPermaLink="false">6b65fa98-6376-4588-8d2c-38c48cac0257</guid>
-            <pubDate>Tue, 26 Apr 2016 04:55:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
